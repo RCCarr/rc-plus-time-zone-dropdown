@@ -58,7 +58,13 @@ function updateCity(event) {
             "h:mm:ss"
           )} <small>${cityTime.format("A")}</small>
           </div>
-        </div>`;
+        </div>
+          <a
+          href="https://reliable-sopapillas-42bfc0.netlify.app/"
+          target="_blank"
+          class="homepage-link"
+          >Return to Homepage</a
+        >`;
 }
 
 let citiesSelectElement = document.querySelector("#city");
