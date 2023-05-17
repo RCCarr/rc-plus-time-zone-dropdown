@@ -61,7 +61,7 @@ function updateCity(event) {
         </div>
           <a
           href="https://reliable-sopapillas-42bfc0.netlify.app/"
-          target="_blank"
+          target=""
           class="homepage-link"
           >Return to Homepage</a
         >`;
